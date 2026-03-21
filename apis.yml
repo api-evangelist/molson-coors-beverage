@@ -1,0 +1,7 @@
+aid: molson-coors-beverage
+url: https://raw.githubusercontent.com/api-evangelist/molson-coors-beverage/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.molson-coors-beverage.com
